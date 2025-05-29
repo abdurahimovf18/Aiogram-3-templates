@@ -1,6 +1,1 @@
-Hey 🤙
-it's not a tested project so please help me test it,
-just create simple bot and test this,
-
-if you get very deep at it, feel free to improve the bugs
-but please, don't break it :)
+This is a educational project created as the simple and efficient aiogram 3.x bot template. This template includes some of the pre-built objects that will increase start-up time as well. If you want to create a real, production-ready telegram bots in aiogram, please don't use this template as a start-up template, as I have noticed many unnecessary and over-engineered things here later. You can check out this and see this if you are interested anyways.
